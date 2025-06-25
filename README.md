@@ -13,6 +13,8 @@ Use this jawn to actually set up your app https://old.reddit.com/prefs/apps
 ## Reddit posts/times
 example_subreddit_times is an example of format you want for the file. You want your own copy in the root directory BITCH
 
+Call it **jobs**.json
+
 # Dealing with virtual environments
 # 1. Install Python if you haven't already
 sudo pacman -S python
