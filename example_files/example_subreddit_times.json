@@ -1,0 +1,19 @@
+{
+  "jobs": [
+    {
+      "subreddit": "programming",
+      "datetime": "2026-05-02 10:30:00",
+      "content": "Check out this cool project!"
+    },
+    {
+      "subreddit": "Python", 
+      "datetime": "2026-05-02 14:30:00",
+      "content": "Python tip of the day"
+    },
+    {
+      "subreddit": "MachineLearning",
+      "datetime": "2026-05-02 16:45:00", 
+      "content": "Latest ML research"
+    }
+  ]
+}
