@@ -11,6 +11,6 @@ Use this jawn to actually set up your app https://old.reddit.com/prefs/apps
 
 # Local files 
 ## Reddit posts/times
-example_subreddit_times is an example of format you want for the file. You want your own copy in the root directory BITCH
+example_jobs.json is an example of format you want for the file. You want your own copy in the root directory
 
-Call it **jobs**.json
+## TIME IS IN MILITARY TIME
